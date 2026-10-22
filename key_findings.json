@@ -1,0 +1,124 @@
+{
+  "cleaning_log": {
+    "rows_raw": 10194,
+    "bad_order_dates": 0,
+    "missing_units": 0,
+    "rows_removed_invalid": 0,
+    "profit_mismatch_rows": 0,
+    "duplicates_removed": 0,
+    "ship_date_after_2025": 10194,
+    "rows_clean": 10194
+  },
+  "kpi": {
+    "Sales": 141783.63,
+    "Gross Profit": 93442.79999999999,
+    "Units": 38654.0,
+    "Cost": 48340.83,
+    "Gross Margin (%)": 65.90521063679917,
+    "Profit per Unit": 2.4174160500853725,
+    "Orders": 8549.0
+  },
+  "date_range": [
+    "2024-01-02",
+    "2025-12-31"
+  ],
+  "pareto": {
+    "revenue_items_80": 5,
+    "revenue_pct_80": 33.33333333333333,
+    "profit_items_80": 5,
+    "profit_pct_80": 33.33333333333333,
+    "state_items_80": 16,
+    "state_total": 59,
+    "state_pct_80": 27.11864406779661,
+    "hhi_rev": 1765.5491333346436,
+    "hhi_profit": 1831.460817568736
+  },
+  "yearly": [
+    {
+      "Year": 2024,
+      "Sales": 57956.2,
+      "GP": 38151.43,
+      "GM": 65.83
+    },
+    {
+      "Year": 2025,
+      "Sales": 83827.43,
+      "GP": 55291.37,
+      "GM": 65.96
+    }
+  ],
+  "region": [
+    {
+      "Region": "Atlantic",
+      "Sales": 41197.24,
+      "GP": 26973.7,
+      "GM": 65.47
+    },
+    {
+      "Region": "Gulf",
+      "Sales": 22247.26,
+      "GP": 14700.67,
+      "GM": 66.08
+    },
+    {
+      "Region": "Interior",
+      "Sales": 32037.6,
+      "GP": 21282.49,
+      "GM": 66.43
+    },
+    {
+      "Region": "Pacific",
+      "Sales": 46301.53,
+      "GP": 30485.94,
+      "GM": 65.84
+    }
+  ],
+  "factory": [
+    {
+      "Factory": "Lot's O' Nuts",
+      "Sales": 76340.15,
+      "GP": 52771.05,
+      "GM": 69.13,
+      "Share": 56.47
+    },
+    {
+      "Factory": "Wicked Choccy's",
+      "Sales": 55352.75,
+      "GP": 36053.57,
+      "GM": 65.13,
+      "Share": 38.58
+    },
+    {
+      "Factory": "Secret Factory",
+      "Sales": 8587.5,
+      "GP": 4344.7,
+      "GM": 50.59,
+      "Share": 4.65
+    },
+    {
+      "Factory": "The Other Factory",
+      "Sales": 1282.25,
+      "GP": 152.25,
+      "GM": 11.87,
+      "Share": 0.16
+    },
+    {
+      "Factory": "Sugar Shack",
+      "Sales": 220.98,
+      "GP": 121.23,
+      "GM": 54.86,
+      "Share": 0.13
+    }
+  ],
+  "ship_lag_days": {
+    "min": 904,
+    "median": 1274.0,
+    "max": 1642
+  },
+  "top5_state_profit_share": 50.72996528357454,
+  "top_state": [
+    "California",
+    19.776183932844475
+  ],
+  "canada_rows": 200
+}

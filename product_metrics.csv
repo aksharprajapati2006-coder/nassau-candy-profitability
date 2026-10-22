@@ -1,0 +1,16 @@
+Division,Product Name,Factory,Sales,Cost,Gross Profit,Units,Orders,Gross Margin (%),Profit per Unit,Avg Price per Unit,Cost per Unit,Cost Ratio (%),Revenue Contribution (%),Profit Contribution (%),Margin Volatility (pp),Rank (Profit),Rank (Margin),Segment,Risk Flag
+Chocolate,Wonka Bar - Scrumdiddlyumptious,Lot's O' Nuts,27874.8,8517.3,19357.5,7743,1704,69.44444444444444,2.5,3.6,1.0999999999999999,30.555555555555554,19.66009757261822,20.715881801487114,0.0,1,4,High-profit / High-margin,Healthy
+Chocolate,Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,28485.0,9874.8,18610.2,7596,1677,65.33333333333333,2.45,3.75,1.2999999999999998,34.666666666666664,20.09047165741207,19.916141211521914,0.0,2,6,High-profit / High-margin,Healthy
+Chocolate,Wonka Bar - Milk Chocolate,Wicked Choccy's,26867.75,9424.38,17443.37,8267,1768,64.92307692307692,2.11,3.25,1.14,35.07692307692307,18.949825166699426,18.667430770482046,0.0,3,7,High-profit / High-margin,Healthy
+Chocolate,Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,23574.95,6755.0,16819.95,6755,1529,71.34670487106017,2.49,3.49,1.0,28.653295128939828,16.627413192905273,18.00026326265908,0.0,4,3,High-profit / High-margin,Healthy
+Chocolate,Wonka Bar - Fudge Mallows,Lot's O' Nuts,24890.4,8296.8,16593.6,6914,1527,66.66666666666666,2.4,3.6,1.2,33.33333333333333,17.555200131355083,17.758029511101977,0.0,5,5,High-profit / High-margin,Healthy
+Other,Lickable Wallpaper,Secret Factory,7860.0,3930.0,3930.0,393,92,50.0,10.0,20.0,10.0,50.0,5.543658319370156,4.205781504835043,0.0,6,11,High-sales / Low-margin,Below target - cost renegotiation
+Other,Wonka Gum,Secret Factory,597.5,286.8,310.7,478,118,52.0,0.65,1.25,0.6,48.00000000000001,0.4214167742778203,0.33250287876647533,0.0,7,10,Low-sales / Low-profit,Discontinuation review
+Sugar,Everlasting Gobstopper,Secret Factory,130.0,26.0,104.0,13,3,80.0,8.0,10.0,2.0,20.0,0.09168900528220358,0.11129803473354821,0.0,8,1,Low-sales / High-margin,Low-volume watch
+Other,Kazookles,The Other Factory,1205.75,1113.0,92.75,371,94,7.6923076923076925,0.25,3.25,3.0,92.3076923076923,0.8504155239924384,0.09925858386092881,0.0,9,15,Low-sales / Low-profit,Critical - reprice & renegotiate cost
+Sugar,Hair Toffee,The Other Factory,76.5,17.0,59.5,17,4,77.77777777777779,3.5,4.5,1.0,22.22222222222222,0.05395545310837365,0.06367531794852037,0.0,10,2,Low-sales / High-margin,Low-volume watch
+Sugar,Fizzy Lifting Drinks,Sugar Shack,78.75,31.5,47.25,21,6,60.0,2.25,3.75,1.5,40.0,0.05554237819979641,0.05056569366500148,0.0,11,9,Low-sales / High-margin,Low-volume watch
+Sugar,Laffy Taffy,Sugar Shack,53.73,20.25,33.480000000000004,27,10,62.31155778894474,1.2400000000000002,1.99,0.75,37.68844221105528,0.03789577118317537,0.035829405796915334,0.0,12,8,Low-sales / High-margin,Low-volume watch
+Sugar,SweeTARTS,Sugar Shack,61.5,32.8,28.7,41,10,46.666666666666664,0.7,1.5,0.7999999999999999,53.333333333333336,0.04337595249888862,0.03071397689281571,0.0,13,12,Low-sales / Low-profit,Discontinuation review
+Sugar,Nerds,Sugar Shack,15.0,8.0,7.0,10,4,46.666666666666664,0.7,1.5,0.8,53.333333333333336,0.010579500609485029,0.007491213876296515,0.0,14,12,Low-sales / Low-profit,Discontinuation review
+Sugar,Fun Dip,Sugar Shack,12.0,7.2,4.8,8,3,40.0,0.6,1.5,0.9,60.0,0.008463600487588024,0.00513683237231761,,15,14,Low-sales / Low-profit,Discontinuation review
