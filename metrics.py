@@ -11,7 +11,10 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-DATA_PATH = Path(__file__).resolve().parent / "data" / "Nassau_Candy_Distributor.csv"
+_HERE = Path(__file__).resolve().parent
+_CSV = "Nassau_Candy_Distributor.csv"
+# Works whether the CSV sits in data/ or directly next to this file
+DATA_PATH = next((p for p in (_HERE / "data" / _CSV, _HERE / _CSV) if p.exists()), _HERE / "data" / _CSV)
 
 # Product -> factory mapping given in the project brief
 FACTORY_MAP = {
